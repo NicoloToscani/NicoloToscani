@@ -8,7 +8,7 @@ I'm Nicolò from Italy and I'm currently working on Industry 4.0 and Industrial 
 <a href="mailto:toscani.nicolo90@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
    
-<p align="vertical">
+<p align="left">
   <a href="#"><img alt="Nicolo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NicoloToscani" /></a>
   <a href="#"><img alt="Nicolo's Github Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoloToscani&layout=compact" /></a>
 </p>
