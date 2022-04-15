@@ -15,7 +15,7 @@ I'm Nicolò from Italy and I'm currently working on Industry 4.0 and Industrial 
 -->
 
 <div align="center">
-    <a href="#"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=NicoloToscani&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
+![Nicolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoloToscani&hide=contribs,prs)
   </div>
 
 
