@@ -8,15 +8,17 @@ I'm Nicolò from Italy and I'm currently working on Industry 4.0 and Industrial 
 <a href="mailto:toscani.nicolo90@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+
+[![Nicolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoloToscani)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=NicoloToscani&style=flat-square&color=blue" alt=""/>
 </p>
 -->
 
-<p align="center">
-    [![Nicolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoloToscani)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+    
+
 
 <!--
 **NicoloToscani/NicoloToscani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
