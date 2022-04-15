@@ -6,11 +6,8 @@ I'm Nicolò from Italy and I'm currently working on Industry 4.0 and Industrial 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ToscaniNicolo)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nicolo-toscani)
 
-<p align="center">
- <img src="https://giphy.com/gifs/mtv-nirvana-vmas-l41m2n5acbmro6raU" width=40% />
-<!--  <img src="https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" width=40% /> -->
-</p>
 
+<div style="width:100%;height:0;padding-bottom:72%;position:relative;"><iframe src="https://giphy.com/embed/l41m2n5acbmro6raU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mtv-nirvana-vmas-l41m2n5acbmro6raU">via GIPHY</a></p>
 
 
 
