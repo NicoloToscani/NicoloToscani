@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Nicolò from Italy and I am focusing on Industry 4.0
 
 <!--
 **NicoloToscani/NicoloToscani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
