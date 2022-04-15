@@ -10,7 +10,7 @@ I'm Nicolò from Italy and I'm currently working on Industry 4.0 and Industrial 
 
 
 [![Nicolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoloToscani)](https://github.com/anuraghazra/github-readme-stats)
-
+![Nicolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoloToscani&hide=contribs,prs)
 <!--
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=NicoloToscani&style=flat-square&color=blue" alt=""/>
