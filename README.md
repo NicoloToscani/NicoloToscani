@@ -10,11 +10,16 @@ I'm Nicolò from Italy and I'm currently working on Industry 4.0 and Industrial 
 
 <p align="center">     
   <a href="#"><img alt="Nicolo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NicoloToscani" /></a>
+  
+ <img src="https://giphy.com/gifs/ralph-80s-cartoons-richie-rich-1nR6fu93A17vWZbO9c" width=40% />
+ 
 
+</p>
+<!--
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=NicoloToscani&style=flat-square&color=blue" alt=""/>
 </p>
-
+-->
 
     
 
