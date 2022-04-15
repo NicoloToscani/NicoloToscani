@@ -7,11 +7,6 @@ I'm Nicolò from Italy and I'm currently working on Industry 4.0 and Industrial 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nicolo-toscani)
 
 
-<div style="width:100%;height:0;padding-bottom:72%;position:relative;"><iframe src="https://giphy.com/embed/l41m2n5acbmro6raU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mtv-nirvana-vmas-l41m2n5acbmro6raU">via GIPHY</a></p>
-
-
-
-
 <!--
 **NicoloToscani/NicoloToscani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
