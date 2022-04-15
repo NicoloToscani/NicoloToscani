@@ -8,9 +8,12 @@ I'm Nicolò from Italy and I'm currently working on Industry 4.0 and Industrial 
 <a href="mailto:toscani.nicolo90@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<!--
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=NicoloToscani&style=flat-square&color=blue" alt=""/>
 </p>
+
+-->
 
 
 <!--
