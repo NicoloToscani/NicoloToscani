@@ -9,7 +9,7 @@ I'm Nicolò from Italy and I'm currently working on Industry 4.0 and Industrial 
 </p>
 
 <p align="center">
- <img src="https://media.giphy.com/media/11LK0CKzYtkaic/giphy.gif" width=50% />
+ <img src="https://media.giphy.com/media/11LK0CKzYtkaic/giphy.gif" width=35% />
 <!--  <img src="https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" width=40% /> -->
 </p>
    
