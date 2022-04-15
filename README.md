@@ -1,11 +1,11 @@
 ### Hi there 👋
-I am Nicolò from Italy and I am focusing on Industry 4.0
+I'm Nicolò from Italy and I'm currently working on Industry 4.0
 
 <!--
 **NicoloToscani/NicoloToscani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
