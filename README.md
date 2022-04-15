@@ -14,7 +14,9 @@ I'm Nicolò from Italy and I'm currently working on Industry 4.0 and Industrial 
 </p>
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoloToscani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    <a href="#"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=NicoloToscani&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
+  </div>
 
 
 <!--
