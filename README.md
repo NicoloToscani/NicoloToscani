@@ -10,6 +10,7 @@ I'm Nicolò from Italy and I'm currently working on Industry 4.0 and Industrial 
 
 <p align="center">     
   <a href="#"><img alt="Nicolo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NicoloToscani" /></a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoloToscani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <!--
 <p align="center">
