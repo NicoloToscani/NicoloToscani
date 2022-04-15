@@ -14,11 +14,6 @@ I'm Nicolò from Italy and I'm currently working on Industry 4.0 and Industrial 
 </p>
 -->
 
-<div align="center">
-![Nicolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoloToscani&hide=contribs,prs)
-  </div>
-
-
 <!--
 **NicoloToscani/NicoloToscani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
