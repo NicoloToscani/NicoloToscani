@@ -1,9 +1,5 @@
 ### Hi there 👋
-I'm Nicolò from Italy and I'm currently working on Industry 4.0 and Industrial Internet of Things (IIoT)
-
-I’m looking for new solutions to simplify data exchange between OT and IT layers of the manufacturing process.
-
-Support the development of open source software to simplify Industry 4.0 integration.
+I'm Nicolò from Italy and I'm currently working on Industry 4.0 and Industrial Internet of Things (IIoT) to simplify data exchange between OT and IT layers of the manufacturing process.
 
 <!--
 **NicoloToscani/NicoloToscani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
