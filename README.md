@@ -7,6 +7,11 @@ I'm Nicolò from Italy and I'm currently working on Industry 4.0 and Industrial 
      <a href="https://www.instagram.com/nicolo_toscani"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:toscani.nicolo90@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+
+<p align="center">
+ <img src="https://media.giphy.com/media/S6CCUz7PfIQen90pQI/giphy.gif" width=40% />
+<!--  <img src="https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" width=40% /> -->
+</p>
    
 <!--
   <a href="#"><img alt="Nicolo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NicoloToscani" /></a>
