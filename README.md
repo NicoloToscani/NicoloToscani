@@ -1,7 +1,5 @@
 ### Hi there 👋
-I'm Nicolò from Italy and I'm currently working on Industry 4.0
-
-- 🌱 I’m currently learning Machine Learning and Industrial Internet of Things (IIoT)
+I'm Nicolò from Italy and I'm currently working on Industry 4.0 and Industrial Internet of Things (IIoT)
 
 <!--
 **NicoloToscani/NicoloToscani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
